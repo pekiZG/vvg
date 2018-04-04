@@ -9,3 +9,10 @@ Random ideas to improve hands on experience of students
 - quiz?
 - ask for feedback and ideas (phpBack)
 - 
+
+Download eclipse
+https://www.eclipse.org/downloads/eclipse-packages/
+
+Download JDK
+http://jdk.java.net/
+
