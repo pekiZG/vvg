@@ -5,6 +5,7 @@ Random ideas to improve hands on experience of students
 - setup eclipe
 - configure java 9
 - git colaboration via eclipse
+- fasthub (Android app)
 - progress milestones (what are learning outcomes)
 - quiz?
 - 
