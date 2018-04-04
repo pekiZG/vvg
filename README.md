@@ -17,3 +17,6 @@ Download JDK
 http://jdk.java.net/
 
 - How to create portable package?
+
+GitIgnore
+https://www.gitignore.io/
