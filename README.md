@@ -16,3 +16,4 @@ https://www.eclipse.org/downloads/eclipse-packages/
 Download JDK
 http://jdk.java.net/
 
+- How to create portable package?
