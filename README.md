@@ -20,3 +20,9 @@ http://jdk.java.net/
 
 GitIgnore
 https://www.gitignore.io/
+
+Live Stream recording
+// TODO: link to :)
+
+FastHub link
+
