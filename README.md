@@ -26,3 +26,4 @@ Live Stream recording
 
 FastHub link
 
+Create Emanuel (Electronic Manual)
