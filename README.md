@@ -18,7 +18,7 @@ Or any other using Intellij
 
 - progress milestones (what are learning outcomes)
 
-See learning outcomes in learningOutcomes.md
+See learning outcomes in [learningOutcomes.md](learningOutcomes.md)
 
 - quiz?
 
